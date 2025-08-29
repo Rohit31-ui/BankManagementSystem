@@ -1,8 +1,8 @@
-🏦 Bank Management System
+# 🏦 Bank Management System
 
 A Java-based console application that simulates core banking operations such as creating an account, depositing money, withdrawing money, checking balance, and PIN-based authentication. This project demonstrates the use of Object-Oriented Programming (OOP) concepts like inheritance, encapsulation, and polymorphism while managing customer accounts.
 
-✨ Features
+## ✨ Features
 
 ✅ Create a new account with personal details (Name, DOB, Area Code, etc.)
 ✅ Secure login using PIN authentication 🔑
@@ -12,32 +12,32 @@ A Java-based console application that simulates core banking operations such as 
 ✅ Display account holder details 👤
 ✅ Search account using account number 🔍
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-Java ☕
+### Java ☕
 
 OOP Concepts (Inheritance, Encapsulation, Methods Overriding)
 
 Scanner class for input handling
 
-📂 Project Structure
-BankManagemnetSystem/
-│── Account.java      // Base class storing account details
-│── Withdraw.java     // Handles withdraw, deposit, balance check, PIN
-│── Deposit.java      // (optional) Handles deposit operations
-│── Bank.java         // Main class with menu-driven program
+## 📂 Project Structure
+### BankManagemnetSystem/
+###  │── Account.java      // Base class storing account details
+###  │── Withdraw.java     // Handles withdraw, deposit, balance check, PIN
+###  │── Deposit.java      // (optional) Handles deposit operations
+###  │── Bank.java         // Main class with menu-driven program
 
-🎯 Learning Outcomes
+## 🎯 Learning Outcomes
 
-Understanding class inheritance in Java
+###  Understanding class inheritance in Java
 
-Applying real-world OOP design in a banking scenario
+###  Applying real-world OOP design in a banking scenario
 
-Handling user inputs and validation
+###  Handling user inputs and validation
 
 Implementing basic error handling (insufficient balance, wrong PIN, etc.)
 
-🚀 How to Run
+## 🚀 How to Run
 
 Clone the repo
 create a folder as BankManagementSystem
@@ -51,7 +51,7 @@ Compile and run
 javac Bank.java
 java Bank
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 
 Add database (MySQL/PostgreSQL) for persistent storage 🗄️
 
@@ -59,4 +59,4 @@ Implement GUI using JavaFX / Swing 🎨
 
 Add interest calculation, loan management, and transaction history 📜
 
-💡 This project is perfect for beginners who want to practice Java and OOP by building a real-world application.
+## 💡 This project is perfect for beginners who want to practice Java and OOP by building a real-world application.
