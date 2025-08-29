@@ -1,4 +1,4 @@
-🏦 #Bank Management System
+🏦 Bank Management System
 
 A Java-based console application that simulates core banking operations such as creating an account, depositing money, withdrawing money, checking balance, and PIN-based authentication. This project demonstrates the use of Object-Oriented Programming (OOP) concepts like inheritance, encapsulation, and polymorphism while managing customer accounts.
 
@@ -40,8 +40,9 @@ Implementing basic error handling (insufficient balance, wrong PIN, etc.)
 🚀 How to Run
 
 Clone the repo
-
-git clone https://github.com/your-username/BankManagementSystem.git
+create a folder as BankManagementSystem
+open terminal
+git clone (https://github.com/Rohit31-ui/BankManagementSystem.git)
 cd BankManagementSystem
 
 
